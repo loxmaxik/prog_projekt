@@ -1,11 +1,8 @@
 #include "snake.cpp"  
-	
-	
-int main()	
-{
+		
+int main(){
 	snakeclass s;
 	s.printmenu();
-	
 	
 	return 0;
 }
